@@ -3,7 +3,7 @@
 # Discription
 
 This project includes the following tasks: <br>
-Task 1.
+- Task 1.
 We are going to create a taxi service. So for the beginning our service needs cars. Create a car class with fields: Car brand, engine power, driver, price, year of manufacture.
 Create a driver class with fields: name, age, driving experience. 
 !!!!! You need to choose the data types for each field yourself. Classes must have all the necessary set of methods, including constructors.
@@ -14,7 +14,7 @@ After that, check the experience of ALL our drivers. If the driver's experience 
 You need to create a helper class where you write a method that takes an array of cars as a parameter and selects a random element from this array ( new Random().nextInt(cars.length); cars is the name of the array of cars (substitute your own)).
 After the element is found, you need to print to the console the text in the style "A car of brand *model* with driver *name* followed you". Then pass this car to the following method, which will display in the console "Driver *name* arrived at the place"
 
-Task 2.
+- Task 2.
 Write a Phonebook program that stores names and phone numbers using the HashMap class.
 Try the following operations with Map: 
 1. put (K key, V value) - adds an element to the map;
