@@ -2,7 +2,7 @@
 
 # Discription
 
-This project includes the following tasks:
+This project includes the following tasks: <br>
 Task 1.
 We are going to create a taxi service. So for the beginning our service needs cars. Create a car class with fields: Car brand, engine power, driver, price, year of manufacture.
 Create a driver class with fields: name, age, driving experience. 
